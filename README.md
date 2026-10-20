@@ -33,7 +33,7 @@ Reach the exit of the haunted house while avoiding the enemies. If an enemy dete
 
 ## Published Game
 
-Unity Play Link: Add your link here
+Unity Play Link: https://play.unity.com/en/games/bec10808-4cbe-48f8-ac35-c5cf349ecb73/haunted-house-escape
 
 ## Project
 
